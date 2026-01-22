@@ -1,0 +1,127 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Cormorant Garamond", serif;
+    width: 115vh;
+
+}
+
+.hero {
+    background-image: url("photos/rajpipla.jpg");
+    background-size: cover;
+    height: 421px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#main-heading {
+    color: #ffffff;
+    background-color: #d18161;
+    width: 200px;
+    margin: 0 auto 15px;
+    padding: 3px 12px;
+    border-radius: 0.8rem;
+    font-weight: 700;
+}
+
+
+#sub-heading {
+    color: #ffffff;
+    background-color: #473034;
+    width: 400px;
+    margin: 0 auto;
+    padding: 6px 28px;
+    border-radius: 0.8rem;
+}
+
+.activities {
+    background-color: #cee6f0;
+    color: #473034;
+}
+
+#activities-heading {
+    margin-top: 0px;
+    padding: 30px 0;
+}
+
+.different-activities {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+
+.activity-name {
+    width: 200px;
+    margin: 10px auto;
+    font-weight: bolder;
+}
+
+.activity-description {
+    width: 200px;
+    margin: 0 auto;
+    padding-top: 10px;
+    font-weight: 500;
+}
+
+.activity-img {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.activity-img:hover {
+    width: 200px;
+}
+
+.guide {
+    padding: 50px 160px;
+}
+
+.guide-card {
+    color: #474040;
+    background-color: #c7dbe3;
+    width: 400px;
+    display: flex;
+    margin: 0 auto;
+    padding: 20px 10px 23px 13px;
+    border-radius: 10px;
+    border-bottom: 6px solid #1d3557;
+}
+
+.guide-card:hover {
+    scale: 1.5;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.guide-img {
+    height: 250px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+#your-guide {
+    font-weight: bolder;
+}
+
+#guide-info {
+    width: 200px;
+    font-style: italic;
+    font-weight: 500;
+    padding-left: 15px;
+}
+
+#guide-name {
+    font-weight: bolder;
+}

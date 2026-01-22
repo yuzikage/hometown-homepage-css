@@ -31,7 +31,7 @@ A vibrant, responsive landing page dedicated to showcasing the culture and natur
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yuzikage/hometown-homepage.git
+    git clone https://github.com/yuzikage/hometown-homepage-css.git
     ```
 2.  **Open the project:**
     Simply open the `index.html` file in any web browser to view the landing page.

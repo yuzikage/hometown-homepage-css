@@ -31,7 +31,7 @@ A vibrant, responsive landing page dedicated to showcasing the culture and natur
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Yuzuki-Kun/hometown-homepage.git](https://github.com/Yuzuki-Kun/hometown-homepage.git)
+    git clone https://github.com/yuzikage/hometown-homepage.git
     ```
 2.  **Open the project:**
     Simply open the `index.html` file in any web browser to view the landing page.
@@ -43,4 +43,4 @@ A vibrant, responsive landing page dedicated to showcasing the culture and natur
 * **Border Radius:** Utilized for circular images and rounded UI components.
 
 ---
-*Created by [Smit Sabalpara](https://github.com/Yuzuki-Kun)*
+*Created by [Smit](https://github.com/yuzikage)*
